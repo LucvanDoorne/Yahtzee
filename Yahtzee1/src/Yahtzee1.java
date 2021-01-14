@@ -1342,7 +1342,7 @@ public class Yahtzee1 extends javax.swing.JFrame {
             groteKnop1.hide();
             gooienActie();
             beurt2Actie();
-            resetDobbel();
+            
         }
     }//GEN-LAST:event_groteKnop1ActionPerformed
 
